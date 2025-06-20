@@ -14,10 +14,6 @@ public repositories.
  on GitHub.
 - Responsive design for seamless usage on different devices.
 
-## Live Demo
-
-Check out the live demo of GitHub Buddy [here](https://githubbuddy-ashishmisal.vercel.app/).
-
 ## Installation
 
 To run GitHub Buddy locally, follow these steps:
@@ -25,7 +21,7 @@ To run GitHub Buddy locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ashishmisal23/GitHub-Buddy.git
+   git clone https://github.com/amrapaligangurde/GitHub-Buddy.git
    ```
 
 2. Navigate to the project directory:
@@ -63,4 +59,4 @@ any features, fixes, or enhancements you'd like to contribute.
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/ashishmisal23/GitHub-Buddy/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/amrapaligangurde/GitHub-Buddy/blob/main/LICENSE).
