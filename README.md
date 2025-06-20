@@ -21,7 +21,7 @@ To run GitHub Buddy locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/amrapaligangurde/GitHub-Buddy.git
+   git clone https://github.com/amrapaligangurde/GIthub-Buddy.git
    ```
 
 2. Navigate to the project directory:
@@ -59,4 +59,4 @@ any features, fixes, or enhancements you'd like to contribute.
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/amrapaligangurde/GitHub-Buddy/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/amrapaligangurde/GIthub-Buddy/blob/main/LICENSE).
